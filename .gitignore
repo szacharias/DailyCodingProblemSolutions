@@ -4,3 +4,5 @@
 Workspace/\.project
 
 Workspace/\.classpath
+
+Workspace/bin/*

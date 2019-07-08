@@ -24,8 +24,8 @@ Bonus: Can you do this in one pass?
 		
 		int numberList[] = {10, 15, 3, 7};
 		int designatedSum = 17;
-		System.out.println("dumber solution " + dumberSolution(numberList, designatedSum));
-		System.out.println("smarter solution " + smarterSolution(numberList, designatedSum));
+		System.out.println("Dumber solution " + dumberSolution(numberList, designatedSum));
+		System.out.println("Smarter solution " + smarterSolution(numberList, designatedSum));
 	}
 	
 	public static boolean dumberSolution(int[]numberList , int designatedSum) {
@@ -33,7 +33,7 @@ Bonus: Can you do this in one pass?
 		for(int i = 0 ; i < numberList.length ; i ++) {
 			for (int q = i + 1 ; q < numberList.length ; q ++) {
   				if( numberList[i] + numberList[q] == designatedSum) {  
-					System.out.println("dumber Output is " + numberList[i] + " " + numberList[q] + ".");
+					System.out.println("Dumber Output is " + numberList[i] + " " + numberList[q] + ".");
 					return true;
 				}
 			}
