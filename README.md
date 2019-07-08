@@ -1,6 +1,6 @@
 #DailyCodingProblem Solutions
 
-Solutions from (DailyCodingProblem)[https://www.dailycodingproblem.com/]
+Solutions from [DailyCodingProblem](https://www.dailycodingproblem.com/)
 
 Questions will be solved in Java or Python
 
