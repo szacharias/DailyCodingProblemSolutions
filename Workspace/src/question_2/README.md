@@ -1,4 +1,4 @@
-#Console Output </br>
+#Console Output
 </br>
 With Division.   </br>
 Example 1 : [120, 60, 40, 30, 24].</br>
